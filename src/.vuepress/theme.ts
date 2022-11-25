@@ -3,44 +3,28 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://09stu.877771.xyz",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "Wmz1024",
+    url: "https://w03.cc",
   },
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/icon.jpg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "wmz1024/09stu",
 
   docsDir: "demo/theme-docs/src",
 
-  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
+  pageInfo: ["Date", "Category", "Tag", "ReadingTime"],
 
   locales: {
-    "/": {
-      // navbar
-      navbar: enNavbar,
-
-      // sidebar
-      sidebar: enSidebar,
-
-      footer: "Default footer",
-
-      displayFooter: true,
-
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      },
-    },
-
     /**
      * Chinese locale config
      */
-    "/zh/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 
@@ -89,7 +73,7 @@ export default hopeTheme({
        * Using Waline
        */
       provider: "Waline",
-      serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      serverURL: "https://waline.877771.xyz",
     },
 
     // Disable features you don’t want here
