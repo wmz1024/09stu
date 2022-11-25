@@ -1,0 +1,16 @@
+{
+  "name": "09stuwebsite",
+  "version": "0.1.1",
+  "description": "Class 9 students are very elegant",
+  "main": "index.js",
+  "repository": "https://github.com/wmz1024/09stu",
+  "author": "Wmz1024 <82153828+wmz1024@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
