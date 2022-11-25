@@ -1,16 +1,18 @@
 {
-  "name": "09stuwebsite",
-  "version": "0.1.1",
+  "name": "09stu",
+  "version": "2.0.0",
   "description": "Class 9 students are very elegant",
-  "main": "index.js",
-  "repository": "https://github.com/wmz1024/09stu",
-  "author": "Wmz1024 <82153828+wmz1024@users.noreply.github.com>",
   "license": "MIT",
-  "devDependencies": {
-    "vuepress": "^2.0.0-beta.53"
-  },
+  "type": "module",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build src",
+    "docs:clean-dev": "vuepress dev src --clean-cache",
+    "docs:dev": "vuepress dev src"
+  },
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.53",
+    "vue": "^3.2.45",
+    "vuepress": "2.0.0-beta.53",
+    "vuepress-theme-hope": "2.0.0-beta.129"
   }
 }
