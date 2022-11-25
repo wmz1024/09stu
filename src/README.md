@@ -16,4 +16,4 @@ footer: 使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blan
 使用Chrome/Edge/火狐等浏览器可点击地址栏右侧安装图标 把图标放在桌面上
 
 我们有微信公众号哟！ 扫描下面二维码关注
-![wechat](/qrcode.bmp)
+![image.png](https://s2.loli.net/2022/11/25/G4kFBe6hfM72pcK.png)
