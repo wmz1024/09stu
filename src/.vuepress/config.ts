@@ -3,20 +3,13 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/",
-
   locales: {
     "/": {
-      lang: "en-US",
-      title: "Docs Demo",
-      description: "A docs demo for vuepress-theme-hope",
-    },
-    "/zh/": {
       lang: "zh-CN",
-      title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      title: "09同学很文雅",
+      description: "此网站存放着2017级09班同学们各种各样的事情",
     },
   },
-
   theme,
 
   shouldPrefetch: false,
