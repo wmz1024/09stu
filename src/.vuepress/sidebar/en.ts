@@ -11,12 +11,11 @@ export const enSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "Articles",
+      text: "Docs",
       icon: "note",
-      prefix: "posts/",
+      prefix: "guide/",
       children: "structure",
     },
-    "intro",
     "slides",
   ],
 });
