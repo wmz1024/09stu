@@ -10,6 +10,7 @@ export default defineUserConfig({
       description: "此网站存放着2017级09班同学们各种各样的事情",
     },
   },
+
   theme,
 
   shouldPrefetch: false,
