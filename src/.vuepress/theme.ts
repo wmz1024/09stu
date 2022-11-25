@@ -121,8 +121,8 @@ export default hopeTheme({
     },
 
     pwa: {
-      favicon: "/favicon.ico",
-      cacheHTML: true,
+      favicon: "/icon.jpg",
+      cacheHTML: false,
       cachePic: true,
       appendBase: true,
       apple: {
