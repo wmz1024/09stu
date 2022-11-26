@@ -9,5 +9,6 @@ export const zhSidebar = sidebar({
       prefix: "article/",
       children: "structure",
     },
+    "/kechengbiao.html",
   ],
 });

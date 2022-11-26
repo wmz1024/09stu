@@ -9,6 +9,8 @@ actions:
   - text: 进来看看 💡
     link: /article/
     type: primary
+  - text: 课程表 📋
+    link: /kechengbiao.html
 copyright: false
 footer: 使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a> 主题
 ---
