@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "wmz1024/09stu",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "src",
 
   pageInfo: ["Date", "Category", "Tag", "ReadingTime"],
 
