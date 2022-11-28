@@ -31,7 +31,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "<a href='https://icp.gov.moe/?keyword=20221044' target='_blank'>萌ICP备20221044号</a>",
 
       displayFooter: true,
 

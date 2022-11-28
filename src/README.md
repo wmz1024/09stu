@@ -12,7 +12,7 @@ actions:
   - text: 课程表 📋
     link: /kechengbiao.html
 copyright: false
-footer: 使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a> 主题
+footer: 使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a> 主题 <a href="https://icp.gov.moe/?keyword=20221044" target="_blank">萌ICP备20221044号</a>
 ---
 
 使用Chrome/Edge/火狐等浏览器可点击地址栏右侧安装图标 把图标放在桌面上
